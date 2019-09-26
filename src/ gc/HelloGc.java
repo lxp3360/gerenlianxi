@@ -8,7 +8,7 @@ package gc;
 
 public class HelloGc {
     public static void main(String[] args){
-        System.out.println("hellogc11");
+        System.out.println("hellogc11123");
         try {
             Thread.sleep(Integer.MAX_VALUE);
         } catch (InterruptedException e) {
